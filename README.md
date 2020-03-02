@@ -1,5 +1,7 @@
 # Inside debt
 
+Author: Wei Ying Soh
+
 ## Abstract
 Theory posits that providing CEOs with debt-like compensation such as defined benefit pensions and deferred compensation aligns managerial interests with the interests of debtholders and reduces agency costs of debt. 
 Prior theoretical predictions also suggest that short-maturity debt is able to reduce agency costs of debt. 
